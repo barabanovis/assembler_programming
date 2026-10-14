@@ -1,0 +1,4 @@
+C:/Users/barab/Desktop/llp/lab1/1/out/build/x64-Debug/CMakeFiles/C_code.dir
+C:/Users/barab/Desktop/llp/lab1/1/out/build/x64-Debug/CMakeFiles/C_justify.dir
+C:/Users/barab/Desktop/llp/lab1/1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/barab/Desktop/llp/lab1/1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
